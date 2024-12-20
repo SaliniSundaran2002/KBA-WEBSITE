@@ -1,4 +1,4 @@
-# Blockchain Courses Web Application  
+# KBA WEBSITE  
 _A web app to showcase various blockchain-related courses using the MERN stack, with Docker support._
 
 ---
