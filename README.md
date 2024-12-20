@@ -40,9 +40,10 @@ This project uses **Docker** to containerize the backend and frontend for easier
 ### Step 1: Clone the Repository
 
 Clone the repository from GitHub:
-
-git clone [https://github.com/Neethu-Muthu/KBA_COURSES_MERN_WITH_CSS.git](https://github.com/SaliniSundaran2002/KBA-WEBSITE.git)
-cd KBA-WEBSITE
+    git clone [https://github.com/SaliniSundaran2002/KBA-WEBSITE.git](https://github.com/SaliniSundaran2002/KBA-WEBSITE.git)
+    
+   cd KBA-WEBSITE
+   
 ### Step 2: Set Up Docker Containers
 
 1. Ensure that **Docker** is installed on your machine.  
